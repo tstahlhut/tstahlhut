@@ -1,10 +1,10 @@
 ### 👋 Hi there, I’m Tatiana, a student at [42 Berlin](https://42berlin.de/)! 🚀
 
-Coming from the world of spoken languages, I embarked on a steep learning journey into the world of programming, thanks to 42 Berlin! Since August 2022, I've been diving deep into C programming, later evolving to C++ and web development. Along the way, I explored system administration, networking, and more.
+Coming from the world of spoken languages, I embarked on a steep learning journey into the world of programming, thanks to 42 Berlin! Since August 2022, I’ve been deeply engaged in programming — starting with C, then progressing to C++, and eventually expanding into web development. Along the way, I explored system administration, networking, and more.
 
 You can find almost all the projects I did so far during the 42 Berlin core curriculum in this repository.
 
-💻  Currently working on 'Transcendence' — the final project of the 42 Berlin core curriculum. As a group we are developing simple, real-time multiplayer version of the classic Pong game, usind Node.js for the backend and socket.io for real-time communication between clients - stay tuned 🚀
+💻  Currently working on 'Transcendence' — the final project of the 42 Berlin core curriculum. As a group we are developing a simple, real-time multiplayer version of the classic Pong game, using Node.js for the backend and socket.io for real-time communication between clients - stay tuned 🚀
 
 🔍 What I love:
 
@@ -12,6 +12,10 @@ You can find almost all the projects I did so far during the 42 Berlin core curr
   - Linux
   - Refactoring code (it should already look appealing and structured)
   - Cybersecurity
+
+🔮 What’s Next?
+
+I’m looking to deepen my expertise in cybersecurity and step into the job market — always excited to collaborate on open-source or low-level system projects!
 
 
 #### 📈 Skills & Technologies:
